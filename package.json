@@ -104,7 +104,7 @@
         "restify-logger": "2.0.1",
         "restifyapigenerate": "1.2.4",
         "search-string": "4.1.0",
-        "smtp-server": "3.19.3",
+        "smtp-server": "3.21.1",
         "speakeasy": "2.0.0",
         "undici": "7.28.0",
         "unix-crypt-td-js": "1.1.4",
